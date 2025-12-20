@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "涙の海で抱かれたい～SEA OF LOVE～",
+  "base_artist": "サザンオールスターズ",
+  "createdAt": "2025-12-20T10:06:22.341438Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "涙の海で抱かれたい~SEA OF LOVE~",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/01_涙の海で抱かれたい~SEA_OF_LOVE~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "涙の海で抱かれたい ～SEA OF LOVE～",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/02_涙の海で抱かれたい_~SEA_OF_LOVE~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "涙の海で抱かれたい～SEA OF LOVE～ (Namida no Umi de Idakaretai)",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/03_涙の海で抱かれたい~SEA_OF_LOVE~_(Namida_no_Umi_de_Idakaretai)_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "涙の海で抱かれたい ～SEA OF LOVE～",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/04_涙の海で抱かれたい_~SEA_OF_LOVE~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "涙の海で抱かれたい～SEA OF LOVE～ (2024 Remaster)",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/05_涙の海で抱かれたい~SEA_OF_LOVE~_(2024_Remaster)_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "涙の海で抱かれたい～SEA OF LOVE～",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/06_涙の海で抱かれたい~SEA_OF_LOVE~_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "涙の海で抱かれたい ～SEA OF LOVE～",
+      "artist": "SOUTHERN ALL STARS",
+      "has_synced": true,
+      "path": "select/07_涙の海で抱かれたい_~SEA_OF_LOVE~_SOUTHERN_ALL_STARS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "涙の海で抱かれたい～SEA OF LOVE～",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_涙の海で抱かれたい~SEA_OF_LOVE~_サザンオールスターズ.txt"
+    }
+  ]
+}
